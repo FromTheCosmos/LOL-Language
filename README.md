@@ -71,16 +71,9 @@ This method can be hit or miss. You may have to re-create a new League of Legend
 
 # Locales
 
-| Language      | Locale      | 
-| ------------- |:-------------:|
-| English (US)     | en_US |
-| English (OCE)      | en_AU      |
-| zebra stripes | are neat      |
-
-
 | Language      | Locale        | 
 | ------------- |:-------------:|
-| English (US)  |	en_US       |
+| English (US)  |	en_US         |
 | English (OCE) |   en_AU       |
 | English (EUW) |   en_GB       |
 | English (EUNE)| 	en_PL       |
@@ -95,12 +88,12 @@ This method can be hit or miss. You may have to re-create a new League of Legend
 | Deutsch       |   de_DE       |
 | Ελληνικά      | 	el_GR       |
 | Italiano      | 	it_IT       |
-| Magyar        |	hu_HU       |
-| Polski        |	pl_PL       |
+| Magyar        |	hu_HU         |
+| Polski        |	pl_PL         |
 | Čeština       | 	cs_CZ       |
-| 汉字          |	zh_CN       |
-| 日本語        |	ja_JP       |
-| 한국어        | 	ko_KR       |
+| 汉字          |	zh_CN          |
+| 日本語        |	ja_JP         |
+| 한국어        | 	ko_KR         |
 
 # Issues
 If you downloaded the LOL-Language.exe instead of downloading the source code and running it in Visual Studio, you may run into a problem where the application does not launch and is unresponsive. This is likely due to not having the required prerequisites. The only real prerequisite for this application is a recent version of Microsoft's .NET Framework. You can install Microsoft .NET Framework 4.7.2 [here](https://dotnet.microsoft.com/download/dotnet-framework/net472).
