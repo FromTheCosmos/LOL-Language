@@ -36,9 +36,9 @@ namespace LOL_Language
 
             try
             {
+
                 languageComboBox.DisplayMember = "KEY";
                 languageComboBox.ValueMember = "VALUE";
-
 
                 // Creates usable dictionary to manage the different client locales
                 IDictionary<string, string> dictionary = new Dictionary<string, string>();
@@ -63,7 +63,6 @@ namespace LOL_Language
                 dictionary.Add("汉字", "zh_CN");
                 dictionary.Add("日本語", "ja_JP");
                 dictionary.Add("한국어", "ko_KR");
-
                 languageComboBox.DataSource = new BindingSource(dictionary, null);
             }
             catch (Exception exception)
