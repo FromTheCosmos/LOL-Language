@@ -4,7 +4,7 @@
     Programmer: Cosmos/From The Cosmos/FromTheCosmos               
     Allows users to specify the League of Legends
     client language prior to client launch. First Release.
-    Known bugs: None
+    Known bugs: None.
 */
 
 using System;
